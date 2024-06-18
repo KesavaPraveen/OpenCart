@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="43" passed="40" failed="3" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-15T10:26:56 IST" name="OpenCart Test Automation" finished-at="2023-02-15T10:27:43 IST" duration-ms="47380">
+    <groups>
+    </groups>
+    <test started-at="2023-02-15T10:26:56 IST" name="Accounts Page Test" finished-at="2023-02-15T10:27:40 IST" duration-ms="43930">
+      <class name="com.qa.opencart.AccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:26:56 IST" name="setUp" finished-at="2023-02-15T10:27:24 IST" duration-ms="27714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="accountPageSetUp()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:24 IST" name="accountPageSetUp" finished-at="2023-02-15T10:27:31 IST" duration-ms="7515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountPageSetUp -->
+        <test-method signature="accountPageTitleTest()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:31 IST" name="accountPageTitleTest" finished-at="2023-02-15T10:27:31 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- accountPageTitleTest -->
+        <test-method signature="headerSectionsTextTest()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:31 IST" name="headerSectionsTextTest" finished-at="2023-02-15T10:27:32 IST" duration-ms="568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- headerSectionsTextTest -->
+        <test-method signature="logOutLinkExistTest()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:32 IST" name="logOutLinkExistTest" finished-at="2023-02-15T10:27:32 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOutLinkExistTest -->
+        <test-method signature="myAccountSectionLinksTest()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:32 IST" name="myAccountSectionLinksTest" finished-at="2023-02-15T10:27:32 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAccountSectionLinksTest -->
+        <test-method signature="myAffiliateAccountSectionLinkTest()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:32 IST" name="myAffiliateAccountSectionLinkTest" finished-at="2023-02-15T10:27:33 IST" duration-ms="356" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAffiliateAccountSectionLinkTest -->
+        <test-method signature="myOrdersSectionLinksTest()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:33 IST" name="myOrdersSectionLinksTest" finished-at="2023-02-15T10:27:34 IST" duration-ms="830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myOrdersSectionLinksTest -->
+        <test-method signature="newsLetterSectionLinkTest()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:34 IST" name="newsLetterSectionLinkTest" finished-at="2023-02-15T10:27:34 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newsLetterSectionLinkTest -->
+        <test-method signature="searchBoxExistTest()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:34 IST" name="searchBoxExistTest" finished-at="2023-02-15T10:27:34 IST" duration-ms="194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBoxExistTest -->
+        <test-method signature="searchButtonTest()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:34 IST" name="searchButtonTest" finished-at="2023-02-15T10:27:34 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.AccountPageTest@12e61fe6]" started-at="2023-02-15T10:27:34 IST" name="tearDown" finished-at="2023-02-15T10:27:40 IST" duration-ms="5691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.AccountPageTest -->
+    </test> <!-- Accounts Page Test -->
+    <test started-at="2023-02-15T10:26:56 IST" name="Login Page Test" finished-at="2023-02-15T10:27:39 IST" duration-ms="43085">
+      <class name="com.qa.opencart.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.opencart.LoginPageTest@7692d9cc]" started-at="2023-02-15T10:26:56 IST" name="setUp" finished-at="2023-02-15T10:27:27 IST" duration-ms="31194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="forgotPasswordLinkTest()[pri:0, instance:com.qa.opencart.LoginPageTest@7692d9cc]" started-at="2023-02-15T10:27:27 IST" name="forgotPasswordLinkTest" finished-at="2023-02-15T10:27:28 IST" duration-ms="624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPasswordLinkTest -->
+        <test-method signature="invalidLoginTest()[pri:0, instance:com.qa.opencart.LoginPageTest@7692d9cc]" started-at="2023-02-15T10:27:28 IST" name="invalidLoginTest" finished-at="2023-02-15T10:27:31 IST" duration-ms="3429" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Warning: No match for E-Mail Address and/or Password.] but found [Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Warning: No match for E-Mail Address and/or Password.] but found [Warning: Your account has exceeded allowed number of login attempts. Please try again in 1 hour.]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertEqualsImpl(Assert.java:149)
+at org.testng.Assert.assertEquals(Assert.java:131)
+at org.testng.Assert.assertEquals(Assert.java:655)
+at org.testng.Assert.assertEquals(Assert.java:665)
+at com.qa.opencart.LoginPageTest.invalidLoginTest(LoginPageTest.java:36)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidLoginTest -->
+        <test-method signature="loginPageTitleTest()[pri:0, instance:com.qa.opencart.LoginPageTest@7692d9cc]" started-at="2023-02-15T10:27:31 IST" name="loginPageTitleTest" finished-at="2023-02-15T10:27:31 IST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="loginPageUrlTest()[pri:0, instance:com.qa.opencart.LoginPageTest@7692d9cc]" started-at="2023-02-15T10:27:31 IST" name="loginPageUrlTest" finished-at="2023-02-15T10:27:31 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageUrlTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.LoginPageTest@7692d9cc]" started-at="2023-02-15T10:27:31 IST" name="tearDown" finished-at="2023-02-15T10:27:39 IST" duration-ms="7695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.LoginPageTest -->
+    </test> <!-- Login Page Test -->
+    <test started-at="2023-02-15T10:26:56 IST" name="Results Page Test" finished-at="2023-02-15T10:27:40 IST" duration-ms="44094">
+      <class name="com.qa.opencart.ResultsPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:26:56 IST" name="setUp" finished-at="2023-02-15T10:27:25 IST" duration-ms="29551" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="resultPageSetUp()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:25 IST" name="resultPageSetUp" finished-at="2023-02-15T10:27:33 IST" duration-ms="7961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultPageSetUp -->
+        <test-method signature="productHeaderTextTest()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:33 IST" name="productHeaderTextTest" finished-at="2023-02-15T10:27:34 IST" duration-ms="335" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productHeaderTextTest -->
+        <test-method signature="resultsPageBreadCrumbTest()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:34 IST" name="resultsPageBreadCrumbTest" finished-at="2023-02-15T10:27:34 IST" duration-ms="533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultsPageBreadCrumbTest -->
+        <test-method signature="resultsPageCheckBoxIsDisplayedTest()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:34 IST" name="resultsPageCheckBoxIsDisplayedTest" finished-at="2023-02-15T10:27:34 IST" duration-ms="193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultsPageCheckBoxIsDisplayedTest -->
+        <test-method signature="resultsPageDropDownsExistTest()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:34 IST" name="resultsPageDropDownsExistTest" finished-at="2023-02-15T10:27:35 IST" duration-ms="395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultsPageDropDownsExistTest -->
+        <test-method signature="resultsPageTitleTest()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:35 IST" name="resultsPageTitleTest" finished-at="2023-02-15T10:27:35 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resultsPageTitleTest -->
+        <test-method signature="searchButtonTest()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:35 IST" name="searchButtonTest" finished-at="2023-02-15T10:27:35 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchButtonTest -->
+        <test-method signature="searchHeaderTextTest()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:35 IST" name="searchHeaderTextTest" finished-at="2023-02-15T10:27:35 IST" duration-ms="81" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchHeaderTextTest -->
+        <test-method signature="searchTextBoxInnerTextProductNameTest()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:35 IST" name="searchTextBoxInnerTextProductNameTest" finished-at="2023-02-15T10:27:35 IST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTextBoxInnerTextProductNameTest -->
+        <test-method signature="subCategoryCheckBoxIsEnabledTest()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:35 IST" name="subCategoryCheckBoxIsEnabledTest" finished-at="2023-02-15T10:27:36 IST" duration-ms="903" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- subCategoryCheckBoxIsEnabledTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.ResultsPageTest@36c88a32]" started-at="2023-02-15T10:27:36 IST" name="tearDown" finished-at="2023-02-15T10:27:40 IST" duration-ms="3817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.ResultsPageTest -->
+    </test> <!-- Results Page Test -->
+    <test started-at="2023-02-15T10:26:56 IST" name="Forgot Password Page Test" finished-at="2023-02-15T10:27:42 IST" duration-ms="45921">
+      <class name="com.qa.opencart.ForgotPasswordPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.opencart.ForgotPasswordPageTest@161479c6]" started-at="2023-02-15T10:26:56 IST" name="setUp" finished-at="2023-02-15T10:27:24 IST" duration-ms="27713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="forgotPwdPageSetup()[pri:0, instance:com.qa.opencart.ForgotPasswordPageTest@161479c6]" started-at="2023-02-15T10:27:24 IST" name="forgotPwdPageSetup" finished-at="2023-02-15T10:27:25 IST" duration-ms="1841" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPwdPageSetup -->
+        <test-method signature="emailIdTextBoxExistTest()[pri:0, instance:com.qa.opencart.ForgotPasswordPageTest@161479c6]" started-at="2023-02-15T10:27:26 IST" name="emailIdTextBoxExistTest" finished-at="2023-02-15T10:27:26 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- emailIdTextBoxExistTest -->
+        <test-method signature="forgotPwdHeaderTextTest()[pri:0, instance:com.qa.opencart.ForgotPasswordPageTest@161479c6]" started-at="2023-02-15T10:27:26 IST" name="forgotPwdHeaderTextTest" finished-at="2023-02-15T10:27:26 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPwdHeaderTextTest -->
+        <test-method signature="forgotPwdPageTitleTest()[pri:0, instance:com.qa.opencart.ForgotPasswordPageTest@161479c6]" started-at="2023-02-15T10:27:26 IST" name="forgotPwdPageTitleTest" finished-at="2023-02-15T10:27:26 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- forgotPwdPageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.ForgotPasswordPageTest@161479c6]" started-at="2023-02-15T10:27:26 IST" name="tearDown" finished-at="2023-02-15T10:27:42 IST" duration-ms="15864" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.ForgotPasswordPageTest -->
+    </test> <!-- Forgot Password Page Test -->
+    <test started-at="2023-02-15T10:26:56 IST" name="Register Page Test" finished-at="2023-02-15T10:27:43 IST" duration-ms="46812">
+      <class name="com.qa.opencart.RegisterPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:26:56 IST" name="setUp" finished-at="2023-02-15T10:27:24 IST" duration-ms="27849" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="regPageSetUp()[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:27:24 IST" name="regPageSetUp" finished-at="2023-02-15T10:27:28 IST" duration-ms="4632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regPageSetUp -->
+        <test-method signature="newUserRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:27:29 IST" name="newUserRegisterTest" data-provider="getUserData" finished-at="2023-02-15T10:27:37 IST" duration-ms="8497" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FirstMBwQvyiLpf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LastgfZfBXZDrp]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TestT@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[5142182736]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Test@2995]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[yes]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.qa.opencart.RegisterPageTest.newUserRegisterTest(RegisterPageTest.java:78)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newUserRegisterTest -->
+        <test-method signature="newUserRegisterTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:27:37 IST" name="newUserRegisterTest" data-provider="getUserData" finished-at="2023-02-15T10:27:40 IST" duration-ms="2865" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FirstRFQQLZEDiB]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LastaSWrzFSKqe]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[TestG@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[2017019012]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Test@3271]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[no]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:110)
+at org.testng.Assert.failNotEquals(Assert.java:1577)
+at org.testng.Assert.assertTrue(Assert.java:56)
+at org.testng.Assert.assertTrue(Assert.java:66)
+at com.qa.opencart.RegisterPageTest.newUserRegisterTest(RegisterPageTest.java:78)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:969)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:829)
+at org.testng.TestRunner.run(TestRunner.java:602)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:437)
+at org.testng.SuiteRunner$SuiteWorker.run(SuiteRunner.java:475)
+at org.testng.internal.thread.ThreadUtil.lambda$execute$0(ThreadUtil.java:58)
+at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newUserRegisterTest -->
+        <test-method signature="registerPageHeaderLabelsTest()[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:27:40 IST" name="registerPageHeaderLabelsTest" finished-at="2023-02-15T10:27:40 IST" duration-ms="172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPageHeaderLabelsTest -->
+        <test-method signature="registerPageHeaderTextTest()[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:27:40 IST" name="registerPageHeaderTextTest" finished-at="2023-02-15T10:27:40 IST" duration-ms="63" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPageHeaderTextTest -->
+        <test-method signature="registerPageLinkTest()[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:27:40 IST" name="registerPageLinkTest" finished-at="2023-02-15T10:27:40 IST" duration-ms="131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPageLinkTest -->
+        <test-method signature="registerPageTitleTest()[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:27:40 IST" name="registerPageTitleTest" finished-at="2023-02-15T10:27:41 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPageTitleTest -->
+        <test-method signature="registerPageWebElementsLabelsTest()[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:27:41 IST" name="registerPageWebElementsLabelsTest" finished-at="2023-02-15T10:27:41 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPageWebElementsLabelsTest -->
+        <test-method signature="registerPageWebElementsTest()[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:27:41 IST" name="registerPageWebElementsTest" finished-at="2023-02-15T10:27:41 IST" duration-ms="199" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerPageWebElementsTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.RegisterPageTest@4690b489]" started-at="2023-02-15T10:27:41 IST" name="tearDown" finished-at="2023-02-15T10:27:43 IST" duration-ms="1623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.RegisterPageTest -->
+    </test> <!-- Register Page Test -->
+    <test started-at="2023-02-15T10:26:56 IST" name="Product Info Page Test" finished-at="2023-02-15T10:27:43 IST" duration-ms="47364">
+      <class name="com.qa.opencart.ProductInfoPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:26:56 IST" name="setUp" finished-at="2023-02-15T10:27:24 IST" duration-ms="27720" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="productInfoPageSetup()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:24 IST" name="productInfoPageSetup" finished-at="2023-02-15T10:27:39 IST" duration-ms="15559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productInfoPageSetup -->
+        <test-method signature="addToCartButtonTest()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:39 IST" name="addToCartButtonTest" finished-at="2023-02-15T10:27:39 IST" duration-ms="101" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addToCartButtonTest -->
+        <test-method signature="compareButtonTest()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:39 IST" name="compareButtonTest" finished-at="2023-02-15T10:27:39 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- compareButtonTest -->
+        <test-method signature="descriptionLinkTest()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:39 IST" name="descriptionLinkTest" finished-at="2023-02-15T10:27:41 IST" duration-ms="1561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- descriptionLinkTest -->
+        <test-method signature="productDataTest()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:41 IST" name="productDataTest" finished-at="2023-02-15T10:27:41 IST" duration-ms="448" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productDataTest -->
+        <test-method signature="productImagesCountTest()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:41 IST" name="productImagesCountTest" finished-at="2023-02-15T10:27:41 IST" duration-ms="37" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productImagesCountTest -->
+        <test-method signature="productNavTabCountTest()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:41 IST" name="productNavTabCountTest" finished-at="2023-02-15T10:27:41 IST" duration-ms="42" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productNavTabCountTest -->
+        <test-method signature="quantityLabelTest()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:41 IST" name="quantityLabelTest" finished-at="2023-02-15T10:27:42 IST" duration-ms="78" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quantityLabelTest -->
+        <test-method signature="quantityTextBoxTest()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:42 IST" name="quantityTextBoxTest" finished-at="2023-02-15T10:27:42 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quantityTextBoxTest -->
+        <test-method signature="specificationLinkTest()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:42 IST" name="specificationLinkTest" finished-at="2023-02-15T10:27:42 IST" duration-ms="124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- specificationLinkTest -->
+        <test-method signature="wishListButtonTest()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:42 IST" name="wishListButtonTest" finished-at="2023-02-15T10:27:42 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- wishListButtonTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.opencart.ProductInfoPageTest@2473d930]" started-at="2023-02-15T10:27:42 IST" name="tearDown" finished-at="2023-02-15T10:27:43 IST" duration-ms="1353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.opencart.ProductInfoPageTest -->
+    </test> <!-- Product Info Page Test -->
+  </suite> <!-- OpenCart Test Automation -->
+</testng-results>

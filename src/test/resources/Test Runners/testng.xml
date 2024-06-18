@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="OpenCart Test Automation" thread-count="6" parallel="tests" verbose="4" >
+
+  <listeners>
+  <listener
+          class-name="com.qa.opencart.listeners.ExtentReportListener" />
+  </listeners>
+
+  <test name="Login Page Test" >
+  <classes>
+      <class name="com.qa.opencart.LoginPageTest">
+      </class>
+  </classes>
+  </test>
+  <test name="Accounts Page Test" >
+    <classes>
+      <class name="com.qa.opencart.AccountPageTest">
+      </class>
+    </classes>
+  </test>
+  <test name="Forgot Password Page Test" >
+    <classes>
+      <class name="com.qa.opencart.ForgotPasswordPageTest">
+      </class>
+    </classes>
+  </test>
+  <test name="Register Page Test" >
+    <classes>
+      <class name="com.qa.opencart.RegisterPageTest">
+      </class>
+    </classes>
+  </test>
+  <test name="Results Page Test" >
+    <classes>
+      <class name="com.qa.opencart.ResultsPageTest">
+      </class>
+    </classes>
+  </test>
+  <test name="Product Info Page Test" >
+    <classes>
+      <class name="com.qa.opencart.ProductPageTest">
+      </class>
+    </classes>
+  </test>
+  <test name="Product Page Data Test" >
+    <classes>
+      <class name="com.qa.opencart.ProductPageDataTest">
+      </class>
+    </classes>
+  </test>
+ 
+</suite>
