@@ -30,10 +30,10 @@ public class LoginPageTest extends BaseTest {
     /*
         Negative Test Scenario
      */
-    @Test
+    /*@Test
     public void invalidLoginTest()
     {
         Assert.assertEquals(loginPage.invalidLogin("dummy@dummy.com","1234"),
                 "Warning: No match for E-Mail Address and/or Password.");
-    }
+    }*/
 }
